@@ -41,14 +41,14 @@ const contentHtml = computed(() => {
 <style scoped>
 .container {
   padding: 20px;
-  border: 1px solid #ccc;
   border-radius: 8px;
+  border: 1px solid #ccc;
   margin-block-end: 20px;
 }
 
 .title {
-  margin-block-end: 10px;
   font-size: 24px;
+  margin-block-end: 10px;
 }
 
 .content {
